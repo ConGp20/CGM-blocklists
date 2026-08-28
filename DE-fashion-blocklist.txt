@@ -1,52 +1,80 @@
-! Title: Fashion & Shoes Blocklist DE (Konsolidiert)
-! Description: Sperrt bekannte Online-Shops und Versandhäuser für Kleidung und Schuhe
+! Title: Damenmode, Versandhäuser & Haushalt Blocklist DE
+! Description: Fokus auf klassische Kataloge, Damenmode und Haushaltswaren
 ! Expires: 7 days
 
-! --- Allgemeine Mode & Fast Fashion ---
-||zalando.de^
-||zalando-lounge.de^
-||zalando-outlet.de^
-||aboutyou.de^
-||hm.com^
-||c-and-a.com^
-||asos.com^
-||asos.de^
-||zara.com^
-||mango.com^
-||peek-cloppenburg.de^
-||breuninger.com^
-||kik.de^
-||takko.com^
-||shein.com^
-||shein.de^
-||bonprix.de^
-||bestsecret.com^
-||ernstings-family.de^
-
-! --- Traditionelle Versandhäuser & Katalog-Mode ---
+! --- Top-Favoriten & Klassische Versandhäuser ---
 ||baur.de^
+||bonprix.de^
+||ernstings-family.de^
 ||bader.de^
 ||heine.de^
 ||witt-weiden.de^
+||klingel.de^
 ||peterhahn.de^
-||walbusch.de^
 ||mona.de^
 ||wenz.de^
 ||albamoda.de^
 ||ullapopken.de^
+||walbusch.de^
 ||mey-edlich.de^
 ||landsend.de^
 ||babista.de^
 ||bonita.de^
 ||brigitte-hachenburg.de^
-||klingel.de^
 ||conleys.de^
+||schwab.de^
+||sieh-an.de^
+||creation-l.de^
+||ateliergs.de^
+||mia-moda.de^
+||meyer-mode.de^
+||veillon.de^
+||impressionen.de^
+||gudrunsjoeden.com^
 
-! --- Schuhhändler & Filialketten ---
+! --- Damenmode, Basics & Filialisten ---
+||c-and-a.com^
+||hm.com^
+||tchibo.de^
+||kik.de^
+||takko.com^
+||nkd.com^
+||woolworth.de^
+||esprit.de^
+||soliver.de^
+||comma-store.de^
+||street-one.de^
+||cecil.de^
+||gerryweber.com^
+||bettybarclay.com^
+||marccain.com^
+||sheego.de^
+||madeleine.de^
+||zalando.de^
+||zalando-lounge.de^
+||aboutyou.de^
+
+! --- Haushaltswaren & Deko ---
+||die-moderne-hausfrau.de^
+||erwinmueller.com^
+||proidee.de^
+||geliebtes-zuhause.de^
+||westwing.de^
+||home24.de^
+||butlers.com^
+||depot-online.de^
+||kibek.de^
+||betten.de^
+
+! --- Teleshopping ---
+||qvc.de^
+||hse.de^
+||hse24.de^
+||channel21.de^
+||123tv.de^
+
+! --- Schuhe (Klassisch / Alltag) ---
 ||deichmann.com^
-||snipes.com^
-||snipes.de^
-||footlocker.de^
 ||tamaris.com^
 ||goertz.de^
 ||schuhe.de^
@@ -54,30 +82,18 @@
 ||reno.de^
 ||schuhcenter.de^
 ||salamander.de^
+||vamos-schuhe.de^
 ||geox.com^
 ||clarks.de^
 ||ecco.com^
-||skechers.de^
 
-! --- Sportmarken (Direktvertrieb) ---
-||nike.com^
-||adidas.de^
-||adidas.com^
-||puma.com^
-
-! --- Nachhaltige & Eco-Fashion ---
-||hessnatur.com^
-||hessnatur.de^
-||waschbaer.de^
-||armedangels.com^
-||avocadostore.de^
-
-! --- Herrenmode ---
-||engbers.com^
-||ansons.de^
-||wormsland.de^
-||hirmer.de^
-
-! --- Gemischte Händler (auskommentiert, bei Bedarf das ! entfernen) ---
+! --- AUSGEKLAMMERT: Sport, Sneaker & Gemischtwaren ---
+! ||nike.com^
+! ||adidas.de^
+! ||adidas.com^
+! ||puma.com^
+! ||snipes.com^
+! ||snipes.de^
+! ||footlocker.de^
 ! ||otto.de^
 ! ||temu.com^
